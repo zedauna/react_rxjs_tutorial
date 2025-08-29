@@ -6,6 +6,26 @@
 
 # Version Rxjs
 
+```bash
+
+REACT_RXJS
+|   .gitignore
+|   package-lock.json
+|   package.json
+|   README.md
+|   tree.md
+|   SRC
+    App.css
+    App.js
+    index.js
+    rxjs.js
+    styles.css
+    TaskForm.js
+    TaskItem.js
+    TasksHeader.js
+    TasksList.js
+```
+
 j'ai suivi le tuto de Lior CHAMLA pour réaliser ce projet afin de comprendre la configuration de Rxjs sur React
 
 1. Clonez le dépot sur votre propre machine : `git clone https://github.com/zedauna/react_rxjs_tutorial.git`
